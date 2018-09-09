@@ -1,64 +1,42 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: "/site/"
+url: http://prabanmfa.com
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: National Martial Arts & Fitness Academy
+email: prabanmfa@gmail.com
+description: "Learn Karate, Kick Boxking, MMA, Muay Thai, Self-Defence, Fitness Training, Kids Fitness, Yoga, Personal Training, Speed, Strength & Conditioning Training."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Praba Karan
   pic: 1
-  position: Lead Designer
+  position: Founder of NMFA
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: http://facebook.com/karateprabba
+    - title: instagram
+      url: https://instagram.com/praba8801
+    - title: youtube
+      url: https://youtu.be/2Nq8FgoS6YY
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://facebook.com/nationalmartialartsandfitness
+  - title: instagram
+    url: https://www.instagram.com/praba8801
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/prabanmfa
+  - title: youtube
+    url: https://youtu.be/2Nq8FgoS6YY
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: \#58/A9, 2nd Floor,Lakshmi Complex,
+  - line: Malleshpalya Main Road,
+  - line: Opposite to Vignana Nagar Bus stand,
+  - line: Bangalore, Karnataka, India (Pin No 560075)
 
 # Build settings
 markdown: kramdown
